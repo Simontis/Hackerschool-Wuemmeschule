@@ -14,6 +14,7 @@ Für die, die die Dateien nicht herunterladen möchten, hier nochmal der Code. V
 
 
 #Zahlen raten#
+
 import random
 
 print("Willkommen bei 'Zahlen erraten'!")
@@ -36,6 +37,7 @@ while guess != number:
        
        
 #Schere, Stein, Papier#
+
 import random
 
 print("Schere, Stein, Papier")
